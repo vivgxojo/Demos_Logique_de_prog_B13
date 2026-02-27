@@ -14,4 +14,4 @@ else:
     print("Erreur : Port non valide")
 
 # Afficher la catégorie
-print("La catégore est port", categorie)
+print("La catégorie est ports", categorie)
